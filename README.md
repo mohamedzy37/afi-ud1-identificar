@@ -1,6 +1,6 @@
-# Actividad: [Identificar antes de tocar]
+# Actividad: Identificar antes de tocar
 
-**Autor/a:** [Mohammed Ghayat Zayoun]
+**Autor/a:** Mohammed Ghayat Zayoun
 
 ## Documentos de la entrega
 

@@ -1,13 +1,13 @@
 # Plan de identificación y preservación: Almadraba Diseño
 
-**Lunes 20 de marzo, 10:45.** Inicio del registro de actuaciones. Única herramienta usada: mi lista de comprobación (P1 a P23). Cada decisión lleva su punto (`P#`); la tabla del apartado 5 dice de qué norma sale.
+**Lunes 20 de marzo, 10:45.** Inicio del registro de actuaciones.La única herramienta que voy a usar durante esta parte es mi lista de comprobación.
 
-**Lo que le digo a Elena, en cuatro frases:**
+**Lo primero  que le digo a Elena es lo siguiente:**
 
-1. Lo más valioso y frágil no es lo que se ve en la mesa: es el portátil encendido y bloqueado, y el móvil de empresa. Mientras sigan encendidos, no se tocan.
-2. Hay tres relojes corriendo fuera de la mesa: el registro del cortafuegos (aguanta una semana), la rotación de copias del NAS (esta noche cae la más antigua) y la grabación del pasillo (no es vuestra).
+1. Lo más valioso y frágil son el portátil encendido y bloqueado, y el móvil de empresa. Mientras sigan encendidos, no se tocan.
+2. Hay más información más allá de la mesa, ademas es una información que tiene fecha de caducidad, que son tres el registro del cortafuegos (aguanta una semana), la rotación de copias del NAS (esta noche cae la más antigua) y la grabación del pasillo (no es vuestra).
 3. Necesito que otros hagan cosas hoy: Bahía (congelar y exportar), la administración del edificio (grabación), Javier (pendrive), el cliente (original de la propuesta) y vuestra asesoría jurídica (qué puedo mirar y qué no).
-4. No damos por probada la sospecha: preservamos lo que permita comprobarla o descartarla (P19).
+4. No podemos aún saber a ciencia cierta quien el sospechoso hasta que no hayan pruebas que lo prueben.
 
 ---
 
